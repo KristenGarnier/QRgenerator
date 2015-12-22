@@ -1,0 +1,11 @@
+{
+  "name": "qrgen",
+  "version": "1.0.0",
+  "description": " A simple command line interface to generate QR image",
+  "main": "qr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garnier Kristen | garnier.kristen@icloud.com | @GarnierKristen",
+  "license": "ISC"
+}
